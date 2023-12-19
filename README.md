@@ -1,2 +1,1 @@
 # GitHubApp-no-config
-TEST
