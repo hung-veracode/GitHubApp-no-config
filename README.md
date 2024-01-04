@@ -1,2 +1,2 @@
 # GitHubApp-no-config
-  Test4
+  Test
